@@ -1,4 +1,4 @@
-<h1>Portfolio</h1>
+<h1>Portfolio 🌐</h1>
 <br>
 <h2>Within my portfolio, you will find some projects, from responsive and interactive to web applications. I used HTML5, CSS3 and JavaScript to create attractive interfaces, focusing on usability and user experience. Each project represents an opportunity for learning and professional growth.
 
