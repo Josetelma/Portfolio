@@ -16,5 +16,5 @@ I used JavaScript to improve the interactivity of my portfolio. Implementing int
 </lo>
 <br>
 
-<img src="https://github.com/Josetelma/Project-Dark-Mode/blob/main/assets/img/sun.JPG?raw=true"/>
+<img src="https://github.com/Josetelma/Portfolio/blob/main/img/img1.PNG?raw=true)"/>
 <img src="https://github.com/Josetelma/Project-Dark-Mode/blob/main/assets/img/moon.JPG?raw=true"/>
