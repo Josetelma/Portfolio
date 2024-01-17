@@ -1,5 +1,20 @@
-Meu portfólio é um reflexo do meu compromisso com a excelência, paixão pelo design e desenvolvimento web, e minha jornada de aprendizado contínuo. Tenho orgulho de apresentar alguns projetos que demonstram minhas habilidades.
+<h1>Portfolio</h1>
+<br>
+<h2>Within my portfolio, you will find some projects, from responsive and interactive to web applications. I used HTML5, CSS3 and JavaScript to create attractive interfaces, focusing on usability and user experience. Each project represents an opportunity for learning and professional growth.
 
-Dentro do meu portfólio, você encontrará alguns projetos, responsivos e interativos até aplicativos web. Usei HTML5, CSS3 e JavaScript para criar interfaces atraentes, com foco na usabilidade e na experiência do usuário. Cada projeto representa uma oportunidade de aprendizado e crescimento, e estou entusiasmada em compartilhá-los com vocês.
+<h3>Exploring my portfolio is a way to learn about my work and personal style, as well as the skills I've acquired over time.</h3>
+<br> 
+<lo>
+<li>HTML Structure:
+HTML to create the overall structure of my portfolio. Each project, section, or visual element must be encapsulated in appropriate HTML tags. Links and navigation are also configured using HTML.</li>
+<br>
+<li>CSS Style:
+I used CSS to style and give an attractive design to my portfolio. Define color schemes, fonts, text sizes, page layout and animations and make it responsive, adapting to different screen sizes.</li>
+<br>
+<li>JavaScript:
+I used JavaScript to improve the interactivity of my portfolio. Implementing interactive image galleries, smooth scrolling effects, among other interactive features. Also to dynamically show information about my projects.</li>
+</lo>
+<br>
 
-Explorar meu portfólio é uma maneira de conhecer meu trabalho e meu estilo pessoal, bem como as habilidades que adquiri ao longo do tempo. Se você estiver interessado em colaborar em projetos futuros ou discutir oportunidades de trabalho, sinta-se à vontade para entrar em contato. Estou sempre aberta a novas conexões e desafios.
+<img src="https://github.com/Josetelma/Project-Dark-Mode/blob/main/assets/img/sun.JPG?raw=true"/>
+<img src="https://github.com/Josetelma/Project-Dark-Mode/blob/main/assets/img/moon.JPG?raw=true"/>
